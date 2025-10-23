@@ -5,7 +5,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-orange.svg)
 ![License](https://img.shields.io/badge/License-Propietario-red.svg)
 
-Asistente documental inteligente desarrollado por **CyG Informática / CyberGuard Chile**, diseñado para integrarse con Microsoft 365 (SharePoint Online). Permite realizar consultas en lenguaje natural sobre documentos corporativos y obtener respuestas contextuales generadas por inteligencia artificial.
+Asistente documental inteligente desarrollado por **CANON Informática Chile**, diseñado para integrarse con Microsoft 365 (SharePoint Online). Permite realizar consultas en lenguaje natural sobre documentos corporativos y obtener respuestas contextuales generadas por inteligencia artificial.
 
 ## ✨ Características Principales
 
@@ -250,28 +250,7 @@ cyg-copilot-ia/
 - **Precisión de búsqueda**: >85% en documentos técnicos
 - **Formatos soportados**: 5 tipos (DOCX, PDF, XLSX, PPTX, TXT)
 
-## 🤝 Contribuciones
 
-Este es un proyecto propietario de CyG Informática. Para consultas sobre licenciamiento o colaboraciones, contactar a:
+Este software es propietario y su uso requiere autorización explícita de CANON.
 
-**Eugenio Castro** – CTO CyG Informática  
-📧 ecastro@cyberguard.cl  
-📱 +56 9 3097 8947  
-🌐 [cyginformatica.cl](https://cyginformatica.cl)
 
-## 📄 Licencia
-
-Copyright © 2025 CyG Informática / CyberGuard Chile. Todos los derechos reservados.
-
-Este software es propietario y su uso requiere autorización explícita de CyG Informática.
-
-## 🙏 Agradecimientos
-
-- Equipo CyG IA / CyberGuard Chile
-- OpenAI por GPT-4o-mini y embeddings
-- Microsoft Graph API
-- Comunidad open source de FastAPI y Python
-
----
-
-**Desarrollado con ❤️ por CyG Informática**
